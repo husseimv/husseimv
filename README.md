@@ -8,7 +8,7 @@
 
 ### 📱 Network
 
-<p align="left">  
+<p align="center">  
 
  <a href="https://www.linkedin.com/in/husseim-vargas-a14b16146/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="40" /></a>
 
