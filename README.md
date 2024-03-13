@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Husseim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on React and Python
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,15 +16,15 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🔭 I’m currently working on React and Python
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-
-- 💬 Ask me about **Web development | OOC**
+- 🧑‍🎓 I'm Mechanical Engineer and Software Developer
 
 - 📫 How to reach me **jhusseim@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+- 🤓 Always learning new things
+  
+- ❓ Any questions? Ask me, I'll be happy to answer :)
 
 </td>
 <td width="50%" align="center">
