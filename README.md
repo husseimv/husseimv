@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Web development | OOC**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 How to reach me **jhusseim@gmail.com**
   
 - ⚡ Fun fact **Call me as KD**
 
