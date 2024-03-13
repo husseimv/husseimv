@@ -1,15 +1,5 @@
 <h1 align="center">Hi , I'm Husseim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🔭 I’m currently working on React and Python
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h3 align="center">Software Developer | Exploring the Boundless World of Technology</h3>
 
 <table align="center">
@@ -20,7 +10,7 @@
 
 - 🧑‍🎓 I'm Mechanical Engineer and Software Developer
 
-- 📫 How to reach me **jhusseim@gmail.com**
+- 📫 How to reach me: **jhusseim@gmail.com**
   
 - 🤓 Always learning new things
   
