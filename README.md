@@ -2,6 +2,8 @@
 
 <h3 align="center">Software Developer | Exploring the Boundless World of Technology</h3>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
